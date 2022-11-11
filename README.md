@@ -1,7 +1,11 @@
-# Tauri + Vanilla
+# Calculadora Simples em Rust
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
+## Descrição
+Uma calculadora simples feita em Rust utilizando o framework Tauri.
+No momento ela só realiza operações simples mas pretendo aperfeiçoa-la.
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+## Compilando
+Para produzir seu própio executável, você precisará ter o Rust e o Tauri instalado, após isso, clone o repositório e em sua raiz, rode
+```bash
+cargo tauri build
+```
