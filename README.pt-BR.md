@@ -35,6 +35,5 @@ cargo tauri build
 
 ## 📥 Download
 
-Por enquanto, é possível baixar apenas a *appimage* para Linux:
-
-- [Download](./bin/desktop-calculator)
+- [Linux AppImage](./bin/desktop-calculator)
+- [Windows 10](./bin/desktop-calculator.exe)
