@@ -9,3 +9,6 @@ Para produzir seu própio executável, você precisará ter o Rust e o Tauri ins
 ```bash
 cargo tauri build
 ```
+
+## Download
+Por enquanto, é possível baixar a *appimage* para Linux: [Download](./bin/desktop-calculator)
